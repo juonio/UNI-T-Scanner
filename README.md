@@ -59,7 +59,6 @@ HEX: 313533344C5558 STRING: '1534LUX'
 ```
 
 ```
-```
 So we should be able to locate from where to parse HEX data and convert that to string to add to the TSDB.
 
 Problem, the value isn't always the same so need to check if simple logik could handle it. 
